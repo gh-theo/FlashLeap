@@ -23,7 +23,10 @@
 ## 闪跃(FlashLeap) VPN价格与套餐对比（性价比分析｜新手怎么选）
 
 **支付方式** 支付宝微信支付USDT
-> **- **新用户 8 折优惠码** shanyue**
+>
+> - **新用户 8 折优惠码** shanyue
+>
+
 - **新手建议**：轻度使用选择 **小包**；需要流媒体和 AI 服务可按月流量选择 Flicker、Leap、Teleport 或 Warp。
 
 |      套餐类型      | 流量/月  | 月付 | 季付 | 半年付 | 年付  | 设备限制 |                                                      套餐购买                                                      |
@@ -43,5 +46,6 @@
 - [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://eoht.net/serve/sharing/account-sharing-guide)
 - [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://eoht.net/ai/summary)
 - [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://eoht.net/serve/code/sms)
+
 > **免责声明**
 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
