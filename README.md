@@ -2,7 +2,7 @@
 
 # 闪跃(FlashLeap)VPN官网注册地址｜真实测速｜价格与套餐详解
 
-[完整详情与最新套餐](https://eoht.net/serve/airport/flashleap) · [机场仓库汇总](https://github.com/gh-theo/airport-summary)
+[完整详情与最新套餐](https://eoht.net/serve/airport/flashleap) · [机场仓库汇总](https://github.com/jcsift/airport-summary)
 
 闪跃（FlashLeap）同时提供定制客户端和通用机场订阅，常见叫法包括“FlashLeap VPN”“闪跃梯子”和“闪跃机场”。使用通用订阅时，可将订阅导入兼容客户端，再使用其中的代理节点；页面套餐均列为全节点 1 倍率，可先按每月流量选择档位，再确认自己偏好的使用方式。
 
