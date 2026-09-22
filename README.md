@@ -49,6 +49,7 @@
 > [!TIP]
 >
 > - **新用户 7 折优惠码**：`eoht`
+> - **适用条件**：限新用户，实际适用套餐与折后价格以结算页为准。
 > - **新手建议**：轻度使用选择 **小包**；需要流媒体和 AI 服务可按月流量选择 Flicker、Leap、Teleport 或 Warp。
 >
 
@@ -95,5 +96,7 @@
 - [账号合租与数字账号指南](https://eoht.net/serve/sharing/account-sharing-guide)
 - [AI 工具使用指南](https://eoht.net/ai/summary)
 - [Hero SMS 国外接码平台](https://eoht.net/serve/code/sms)
+
+[机场优惠码汇总](https://github.com/jcsift/airport-summary/blob/main/coupons.md) · [机场卡片汇总](https://github.com/jcsift/airport-summary/blob/main/cards.md)
 
 > 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
